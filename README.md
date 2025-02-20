@@ -10,6 +10,18 @@ This project delves into the fascinating world of Netflix data. Through explorat
 
 # About Dataset
 The Netflix dataset contains the records of content that has been uploded on Netflix from around the world since 2008, the year netflix went online. The datasets holds record of around 8800 movies and tv shows along with their title, director, cast, country, release_year, duration, rating, discription etc. which spread across 12 columns. The dataset contains record till year 2021.
+* show_id: Gives the information about show id.
+* type: Gives information about 2 different unique values one is TV Show and another is Movie.
+* title: Gives information about the title of Movie or TV Show.
+* director: Gives information about the director who directed the Movie or TV Show.
+* cast: Gives information about the cast who plays role in Movie or TV Show.
+* country: Gives information about the Name of country.
+* date_added: Gives information about the tv shows or movie released.
+* release_year: Gives information about the year when Movie or TV Show was released.
+* rating: Gives information about the Movie or TV Show are in which category (eg like the movies are only for students, or adults, etc).
+* duration: Gives information about the duration of Movie or TV Show.
+* listed_in: Gives information about the genre of Movie or TV Show.
+* description: Gives information about the description of Movie or TV Show.
 
 # Tools and Libraries used
 * 1] Google Colab
