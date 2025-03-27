@@ -1,12 +1,16 @@
-# Netflix-Exploratory-Data-Analysis
+# Netflix-Exploratory-Data-Analysis + AWS & QuickSight
 ![https___dev-to-uploads s3 amazonaws com_uploads_articles_hjukkwcishwdbbo3vp5m-1](https://github.com/user-attachments/assets/efb853df-b3d9-46a0-8319-c4093ff7613d)
 
 
 ### Colab Link= <a href="https://colab.research.google.com/drive/1_wvfmxya7aFfkNxXqsTZkO2abz86nllC?usp=sharing">View_Me</A>
+### AWS Doccumentation Link= <a href="https://drive.google.com/file/d/1vKlsuS1L6vzyEPphA2JVwYkYt4pj0PWj/view?usp=drive_link">View_Me</A>
+### QuickSight Dashboard
+![Quicksight Dashboard](https://github.com/user-attachments/assets/37953301-0bd8-42ca-a45f-23f256dc2bb4)
+
 #### Note: As dynamic charts are not supported on Github, I am sharing my colab link below. Please care to take a look at it 😊
 
 # Project Overview
-This project delves into the fascinating world of Netflix data. Through exploratory analysis we uncover patterns, trends, and insights hidden within the streaming giant’s vast content library. Whether you’re a data enthusiast, a curious viewer, or a business strategist, this EDA provides valuable takeaways.
+This project delves into the fascinating world of Netflix data. Through exploratory analysis we uncover patterns, trends, and insights hidden within the streaming giant’s vast content library. Whether you’re a data enthusiast, a curious viewer, or a business strategist, this EDA provides valuable takeaways and I have taken things a bit further by adding the Components like AWS S3 and Quicksight for adding another layer of Analysis.
 
 # About Dataset
 The Netflix dataset contains the records of content that has been uploded on Netflix from around the world since 2008, the year netflix went online. The datasets holds record of around 8800 movies and tv shows along with their title, director, cast, country, release_year, duration, rating, discription etc. which spread across 12 columns. The dataset contains record till year 2021.
